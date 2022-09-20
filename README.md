@@ -12,5 +12,10 @@
 :LspInstall rust-analyzer 
 ```
 
+## tutorial
+
+- [日本語Tutorial](https://doc.rust-jp.rs/book-ja/foreword.html)
+
+
 
 
